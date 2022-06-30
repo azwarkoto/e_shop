@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588073489324",
+    "project_id": "eshop-87a3d",
+    "storage_bucket": "eshop-87a3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588073489324:android:6d7f47ed30b58a80246009",
+        "android_client_info": {
+          "package_name": "com.azwar.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588073489324-ds1ooab7ucelbj4696luq20nsjuodhcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDby_04wlG567N-lMjvmptU8Vc2FBQeseU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588073489324-ds1ooab7ucelbj4696luq20nsjuodhcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
